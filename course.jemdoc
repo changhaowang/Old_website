@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{course.html}
+= Coursework
+
+== Controls:
+- Mathematical Methods for Engineering (E231, [https://www.me.berkeley.edu/people/faculty/andrew-packardk/    Prof. Andrew Packard], [https://www.me.berkeley.edu/people/faculty/somayeh-sojoudi/ Prof. Somayeh Sojoudi], [https://www.me.berkeley.edu/people/faculty/kameshwar-poolla/ Prof.Kameshwar Poolla])
+- Advanced Control I (ME232, [https://www.me.berkeley.edu/horowitz/ Prof. Roberto Horowitz])
+- Advanced Control II (ME233, [https://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka/   Prof. Masayoshi Tomizuka])
+- Optimization Models in Engineering (EECS227AT, [https://www2.eecs.berkeley.edu/Faculty/Homepages/elghaoui.html/ Prof. Laurent El Ghaoui], [https://www2.eecs.berkeley.edu/Faculty/Homepages/bayen.html/, Prof. Alexandre Bayen])
+
+== Optimization:
+- Optimization Models in Engineering (EECS227AT, [https://people.eecs.berkeley.edu/~elghaoui/ Prof. Laurent El Ghaoui], [https://www2.eecs.berkeley.edu/Faculty/Homepages/bayen.html/, Prof. Alexandre Bayen])
+- Mathematical Programming II (IEOR262B, [https://lavaei.ieor.berkeley.edu/index.html/  Prof. Javad Lavaei])
+
+== Artificial Intelligence:
+- Introduction to Artificial Intelligence (CS188, [https://people.eecs.berkeley.edu/~svlevine/ Prof. Sergey Levine], [https://people.eecs.berkeley.edu/~russell/ Prof. Stuart Russell])

@@ -1,0 +1,76 @@
+# jemdoc: menu{MENU}{research.html}
+= Research
+
+Precise motion control is desired in a variety of industrial robot applications. In order to achieve precise and rapid rest-to-rest motion, the overshoot and the residual vibration caused by flexibility of robots should be minimized. To make robot motion more accurate, {{<a href="}}\#{{vibration">}}*vibration suppression*{{</a>}} and {{<a href="}}\#{{flexiblejoint">}}*control of flexible joint robot*{{</a>}} problems are introduced in this research. Furthermore, considering these control problems can be addressed using more general optimal control approach, an efficient numerical method for {{<a href="}}\#{{optimalcontrol">}}*optimal control*{{</a>}} is presented not only to dress motion control problems, but also other applications like motion planning.
+
+{{<a name="vibration"></a>}}
+== Vibration Suppression
+
+This work try to suppress vibration for robot with flexible payload. A modified input shaping technique, which is designed to work without slowing the motion, is implemented in this work. Acceleration at the end tip of payload shows the performance of the vibration suppression.
+
+==== Related publications
+- Zhao, Yu, and Masayoshi Tomizuka. [https://yzhao334.github.io/pdf/ModifiedZeroDelay.pdf "Modified Zero Time Delay Input Shaping for Industrial Robot With Flexibility."] In ASME 2017 Dynamic Systems and Control Conference, pp. V003T22A003-V003T22A003. American Society of Mechanical Engineers, 2017. {{[}}[http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2663594 DOI]{{]}}
+- Zhao, Yu, Wenjie Chen, Te Tang, and Masayoshi Tomizuka. [https://yzhao334.github.io/pdf/ZeroDelayShaping.pdf “Zero time delay input shaping for smooth settling of industrial robots.”] In Automation Science and Engineering (CASE), 2016 IEEE International Conference on, pp. 620-625. IEEE, 2016. {{[}}[https://ieeexplore.ieee.org/document/7743459 DOI]{{]}}
+
+~~~
+{}{img_left}{photos/RobotVibrationSuppression.png}{alt text}{800}
+~~~
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OfwJjq4OWT4" frameborder="0" allowfullscreen></iframe>
+~~~
+
+{{<a name="optimalcontrol"></a>}}
+== Efficient Numerical Method for Optimal Control
+
+A variety of control problems can be formulated and solved as optimal control problem. However, it is difficult to implement numerical control in practice due to two reasons. One reason is that no simple analytical solution exists for general nonlinear optimal control problems. Another reason is that the computational load for numerical solution is typically heavy. In this work, efficient numerical method is developed for general nonlinear optimal control problems. Potential applications of this work include control of underactuated systems, trajectory and motion planning of robot manipulators, and so on.
+
+==== Related publications
+- Zhao, Yu, Hsien-Chung Lin, and Masayoshi Tomizuka. "Efficient trajectory optimization for robot motion planning." In International Conference on Control, Automation, Robotics and Vision (ICARCV), 2018. {{[}}[https://yzhao334.github.io/pdf/yu_ICARCV18.pdf preprint version]{{]}}
+- Lin, Chung-Yen, Yu Zhao, Masayoshi Tomizuka, and Wenjie Chen. [https://yzhao334.github.io/pdf/chungYen_acc16.pdf "Path-constrained trajectory planning for robot service life optimization."] In American Control Conference (ACC), 2016, pp. 2116-2122. IEEE, 2016. {{[}}[https://ieeexplore.ieee.org/document/7525231 DOI]{{]}}
+
+~~~
+{}{img_left}{photos/framework.png}{alt text}{800}
+~~~
+
+Example: Time optimal motion Planning of 6 Joint Robot with kinematics, dynamics constraints, and collision avoidance requirements.
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EZmLXtO3C2E" frameborder="0" allowfullscreen></iframe>
+~~~
+
+Example: Quadrotor Flipping {{[}}[https://github.com/yzhao334/Flipping-Test link to code]{{]}} and Motion Planning of 2 Link Planar Robot
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J1ZxJ_2tJTM" frameborder="0" allowfullscreen></iframe>
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Up3LHq3DUD0" frameborder="0" allowfullscreen></iframe>
+~~~
+
+Example: Time optimal motion Planning of 6 Joint Robot, using CppAD and CasADi respectively
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5cbXW-huSbk" frameborder="0" allowfullscreen></iframe>
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_GW96_YJGZ8" frameborder="0" allowfullscreen></iframe>
+~~~
+
+
+{{<a name="flexiblejoint"></a>}}
+== Motion Control of Flexible Joint Robot
+
+This work try to improve trajectory tracking accuracy of flexible joint robot. A MATLAB\/SimMechanics simulator for 6-joint robot is developed. Joint flexibility effect is also considered in this simulator that simulates robot dynamics. For very soft joint, the solution is implementing a multiple sliding surface controller (MSSC) that takes advantage of the model of robot dynamics and sensing from actuator and robot joints\/links.
+
+==== Related publications
+- Zhao, Yu, Xiaowen Yu, and Masayoshi Tomizuka. [https://yzhao334.github.io/pdf/FlexibleJoint_revise_final.pdf "Neuroadaptive Control for Trajectory Tracking of Indirect Drive Robots."] In ASME 2017 Dynamic Systems and Control Conference, pp. V002T12A004-V002T12A004. American Society of Mechanical Engineers, 2017. {{[}}[http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2663533 DOI]{{]}}
+- Zhao, Yu, Cong Wang, Xiaowen Yu, and Masayoshi Tomizuka. [https://yzhao334.github.io/pdf/DynamicModel.pdf "Complete Dynamic Modelling of Flexible Joint Robots."] In ASME 2015 Dynamic Systems and Control Conference, pp. V001T18A003-V001T18A003. American Society of Mechanical Engineers, 2015. {{[}}[http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2481910 DOI]{{]}}
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CvkO7m-aVaU" frameborder="0" allowfullscreen></iframe>
+~~~
+

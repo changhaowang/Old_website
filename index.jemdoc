@@ -1,0 +1,62 @@
+# jemdoc: menu{MENU}{index.html}
+= Changhao Wang
+
+~~~
+{}{img_left}{photos/changhao.jpg}{Changhao Wang Photo}{230}{}{https://changhaowang.github.io}
+
+*Changhao Wang*\n
+
+*Ph.D. student*\n
+
+Department of Mechanical Engineering\n
+
+University of California at Berkeley\n
+
+*Email:* changhaowang@berkeley.edu\n
+
+*Advisor:* Prof.[http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka Masayoshi Tomizuka]\n
+
+*Affiliation:*[http://msc.berkeley.edu/ Mechanical Systems Control Laboratory (MSC)]\n
+
+== Recent News
+. March 2019: Paper: Robust Deformation Model Approximation for Robotic Cable Manipulation submitted to IEEE IROS2019!
+. August 2018: I joined Mechanical System Control Lab at UC Berkeley as a Ph.D. student!
+. July 2018: Paper: A Framework for Manipulating Deformable Linear Objects by Coherent Point Drift accepted by IEEE Robotics and Automation Letters (RA-L)!
+~~~
+
+
+== About me
+I am a first year Ph.D. student at UC Berkeley advised by Distinguished Professor Masayoshi Tomizuka. My research interests include system control, optimization, and analogy learning in a wide range of application, such as robotic manipulation, autonomous driving, and unmanned aerial vehicles.
+
+
+== Education
+- *Ph.D. Mechanical Engineering, UC Berkeley (Berkeley, CA), 2018 - 2023 (Expected)*
+    -- Major: Controls ~~~~~~~~~~~Minors: Optimization, Artificial Intelligence
+    -- GPA: 4.0/4.0 ~~~~~~~~~~~~~~~Advisor: Prof. Masayoshi Tomizuka
+    -- Research Interest: Robotics, Optimization, and Motion Planning. 
+- *B.S., Mechanical Engineering, Shanghai Jiao Tong University (Shanghai, China), 2014-2018*
+
+
+
+
+
+
+
+#== Experience
+#- Research engineer, FANUC, 2018-present
+#- Research assistant,   [http://msc.berkeley.edu/ MSC Lab],    2013-2018
+#  -- Motion control of flexible joint robot
+#  -- Vibration suppression of industrial robot
+#  -- Learning control of industrial robot
+#  -- Efficient numerical method for optimal control
+#- Intern,   [http://www.energid.com/ Energid Technologies], Cambridge, MA,   Jun.2016-Aug.2016
+#  -- Online trajectory generation for bounded velocity, acceleration, and jerk.
+#- Research collaboration,   [http://robot.fanucamerica.com/ FANUC], Japan     Jun.2015-Jul.2015, Sep.2016, Sep.2017
+#  -- Vibration suppression of industrial robot
+#- Intern,   [http://www.us.toyota-itc.com/ Toyota Infotechnology Center], Mountain View, CA,   Jun.2017-Aug.2017
+#  -- Model exchange and parameter estimation research for digital twin.
+
+
+
+
+

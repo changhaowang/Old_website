@@ -1,0 +1,50 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publication
+
+== Papers
+
+- Zhao, Yu, Hsien-Chung Lin, and Masayoshi Tomizuka. "Efficient trajectory optimization for robot motion planning." In International Conference on Control, Automation, Robotics and Vision (ICARCV), 2018. {{[}}[https://yzhao334.github.io/pdf/yu_ICARCV18.pdf preprint version]{{]}}
+
+- Zhao, Yu, and Masayoshi Tomizuka. [https://yzhao334.github.io/pdf/ModifiedZeroDelay.pdf "Modified Zero Time Delay Input Shaping for Industrial Robot With Flexibility."] In ASME 2017 Dynamic Systems and Control Conference, pp. V003T22A003-V003T22A003. American Society of Mechanical Engineers, 2017. {{[}}[http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2663594 DOI]{{]}}
+
+- Zhao, Yu, Xiaowen Yu, and Masayoshi Tomizuka. [https://yzhao334.github.io/pdf/FlexibleJoint_revise_final.pdf "Neuroadaptive Control for Trajectory Tracking of Indirect Drive Robots."] In ASME 2017 Dynamic Systems and Control Conference, pp. V002T12A004-V002T12A004. American Society of Mechanical Engineers, 2017. {{[}}[http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2663533 DOI]{{]}}
+
+- Yu, Xiaowen, Thomas Baker, Yu Zhao, and Masayoshi Tomizuka. "Robot Tool Calibration in Precise Glass Handling." In ASME 2017 Dynamic Systems and Control Conference, pp. V002T16A001-V002T16A001. American Society of Mechanical Engineers, 2017.
+
+- Yu, Xiaowen, Yu Zhao, Cong Wang, and Masayoshi Tomizuka. "Trajectory Planning for Robot Manipulators Considering Kinematic Constraints Using Probabilistic Roadmap Approach." Journal of Dynamic Systems, Measurement, and Control 139, no. 2 (2017): 021001.
+
+- Tang, Te, Hsien-Chung Lin, Yu Zhao, Wenjie Chen, and Masayoshi Tomizuka. "Autonomous alignment of peg and hole by force/torque measurement for robotic assembly." In Automation Science and Engineering (CASE), 2016 IEEE International Conference on, pp. 162-167. IEEE, 2016.
+
+- Zhao, Yu, Wenjie Chen, Te Tang, and Masayoshi Tomizuka. [https://yzhao334.github.io/pdf/ZeroDelayShaping.pdf “Zero time delay input shaping for smooth settling of industrial robots.”] In Automation Science and Engineering (CASE), 2016 IEEE International Conference on, pp. 620-625. IEEE, 2016. {{[}}[https://ieeexplore.ieee.org/document/7743459 DOI]{{]}}
+
+- Fan, Yongxiang, Hsien-Chung Lin, Yu Zhao, Chung-Yen Lin, Te Tang, Masayoshi Tomizuka, and Wenjie Chen. "Object position and orientation tracking for manipulators considering nonnegligible sensor physics." In Flexible Automation (ISFA), International Symposium on, pp. 450-457. IEEE, 2016.
+
+- Tang, Te, Hsien-Chung Lin, Yu Zhao, Yongxiang Fan, Wenjie Chen, and Masayoshi Tomizuka. "Teach industrial robots peg-hole-insertion by human demonstration." In Advanced Intelligent Mechatronics (AIM), 2016 IEEE International Conference on, pp. 488-494. IEEE, 2016.
+
+- Lin, Chung-Yen, Yu Zhao, Masayoshi Tomizuka, and Wenjie Chen. [https://yzhao334.github.io/pdf/chungYen_acc16.pdf "Path-constrained trajectory planning for robot service life optimization."] In American Control Conference (ACC), 2016, pp. 2116-2122. IEEE, 2016. {{[}}[https://ieeexplore.ieee.org/document/7525231 DOI]{{]}}
+
+- Lin, Hsien-Chung, Te Tang, Yongxiang Fan, Yu Zhao, Masayoshi Tomizuka, and Wenjie Chen. "Robot learning from human demonstration with remote lead hrough teaching." In Control Conference (ECC), 2016 European, pp. 388-394. IEEE, 2016.
+
+- Wang, Cong, Yu Zhao, Yubei Chen, and Masayoshi Tomizuka. "Nonparametric statistical learning control of robot manipulators for trajectory or contour tracking." Robotics and Computer-Integrated Manufacturing 35 (2015): 96-103.
+
+- Wang, Cong, Zining Wang, Cheng Peng, Yu Zhao, and Masayoshi Tomizuka. "Compensating flexibility in servo systems using iterative learning control." In ASME 2015 Dynamic Systems and Control Conference, pp. V003T40A001-V003T40A001. American Society of Mechanical Engineers, 2015.
+
+- Zhao, Yu, Cong Wang, Xiaowen Yu, and Masayoshi Tomizuka. [https://yzhao334.github.io/pdf/DynamicModel.pdf "Complete Dynamic Modelling of Flexible Joint Robots."] In ASME 2015 Dynamic Systems and Control Conference, pp. V001T18A003-V001T18A003. American Society of Mechanical Engineers, 2015. {{[}}[http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2481910 DOI]{{]}}
+
+- Yu, Xiaowen, Cong Wang, Yu Zhao, and Masayoshi Tomizuka. "Controller design and optimal tuning of a wafer handling robot." In Automation Science and Engineering (CASE), 2015 IEEE International Conference on, pp. 640-646. IEEE, 2015.
+
+- Wang, Cong, Yu Zhao, Chung-Yen Lin, and Masayoshi Tomizuka. "Fast planning of well conditioned trajectories for model learning." In Intelligent Robots and Systems (IROS 2014), 2014 IEEE/RSJ International Conference on, pp. 1460-1465. IEEE, 2014.
+
+- Yu, Xiaowen, Cong Wang, Yu Zhao, and Masayoshi Tomizuka. "Dynamics modeling and identification of a dual-blade wafer handling robot." In ASME 2013 Dynamic Systems and Control Conference, pp. V003T39A004-V003T39A004. American Society of Mechanical Engineers, 2013.
+
+- Zhao, Yu, Tiemin Li, Xiaowen Yu, Xiaoqiang Tang, and Liping Wang. "Mobility analysis of a Sarrus Linkage-like 7-R single closed loop mechanism." In Robotics and Automation (ICRA), 2013 IEEE International Conference on, pp. 4171-4176. IEEE, 2013.
+
+- Zhao, Yu, Tiemin Li, and Xiaoqiang Tang. "Systematic Geometric Error Modeling and Compensation of a Five-Axis CNC Machine Tool." In International Conference on Computer and Automation Engineering, 4th (ICCAE 2012). ASME Press, 2012.
+
+- Yu, Xiaowen, Yu Zhao, Chenglong Fu, and Ken Chen. "Research and Development of a Ping-Pong Robot Arm." In Advances in Automation and Robotics, Vol. 1, pp. 65-71. Springer Berlin Heidelberg, 2011.
+
+- Zhao, Yu, Tiemin Li, and Xiaoqiang Tang. "Geometric error modeling of machine tools based on screw theory." Procedia Engineering 24 (2011): 845-849.
+
+== Patents
+
+- Cable traction automobile coating conveyor, China Patent NO.CN102616668 A, Aug.1, 2012

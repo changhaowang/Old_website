@@ -1,0 +1,69 @@
+# jemdoc: menu{MENU}{project.html}
+= Projects
+
+== Online Trajectory Generation {{[}}[https://github.com/yzhao334/accOpt link to code]{{]}}
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R8yIsASUwN0" frameborder="0" allowfullscreen></iframe>
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UQ82Yz8fOBg" frameborder="0" allowfullscreen></iframe>
+~~~
+
+== Optimal Flipping Control of Quadrotor {{[}}[https://github.com/yzhao334/Flipping-Test link to code]{{]}}
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zApf2qy0YGc" frameborder="0" allowfullscreen></iframe>
+~~~
+
+== Optimal Manipulation of Ball-Plate System
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ooHk1G8vi_k" frameborder="0" allowfullscreen></iframe>
+~~~
+
+== Imitation Learning
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/krhfBBV2OWQ" frameborder="0" allowfullscreen></iframe>
+~~~
+
+== Obstacle Inspection with Baxter
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vAvYOazPspQ" frameborder="0" allowfullscreen></iframe>
+~~~
+
+== Simulation of Painting Robot
+~~~
+{}{img_left}{photos/ptrobot.png}{alt text}{315}
+This project use computer aided design software (Pro\/E) to model the process of two painting robots paint a car body during manufacturing.
+~~~
+
+== Pingpong Robot Design and Analysis
+~~~
+{}{raw}
+<table class="imgtable"><tr><td>
+<img src="photos/image005.jpg" alt="design" width="150px" height="150px" />
+&nbsp;
+<img src="photos/pprobot.jpg" alt="CAD" height="150px" />
+&nbsp;
+</td>
+<td align="left"><p>This project focus on design and analysis of a robot arm that is used to play pingpong.</p>
+</td></tr></table>
+~~~
+
+== Mechanical System Design and Analysis
+~~~
+{}{img_left}{photos/pj03.gif}{alt text}{315}
+Spheral parallel mechanism with 3 rotational degrees of freedom, which coulbe bue used in wrist haptic device or assistive devices.
+~~~
+
+~~~
+{}{img_left}{photos/mech2.gif}{alt text}{315}
+Stable extendable mechanism element. Multiple elements can be used to construct lifting machines.
+~~~
+
+~~~
+{}{img_left}{photos/mech1.jpg}{}{315}
+Protype design of a dip coating shuttle for dip-treatment and painting for automobiles.
+~~~
