@@ -13,9 +13,9 @@
 <td id="layout-menu">
 <div class="menu-category">Changhao Wang</div>
 <div class="menu-item"><a href="index.html" class="current">Home</a></div>
+<div class="menu-item"><a href="course.html">Coursework</a></div>
 <div class="menu-item"><a href="research.html">Research</a></div>
 <div class="menu-item"><a href="publication.html">Publication</a></div>
-<div class="menu-item"><a href="course.html">Coursework</a></div>
 <div class="menu-category">Externel</div>
 <div class="menu-item"><a href="http://msc.berkeley.edu/">MSC&nbsp;Lab</a></div>
 </td>
@@ -55,11 +55,18 @@
 </li></ul>
 </li>
 <li><p><b>B.S., Mechanical Engineering, Shanghai Jiao Tong University (Shanghai, China), 2014-2018</b></p>
+<ul>
+<li><p>Thesis: Vision-based Object Classification and Size Detection for Robotic Manipulation</p>
+</li>
+<li><p>Advisor: <a href="http://me.sjtu.edu.cn/teacher_directory1/dinghua.html">Prof. Ye Ding</a>, <a href="http://me.sjtu.edu.cn/teacher_directory1/shengxinjun.html">Prof. Xinjun Sheng</a></p>
+</li>
+</ul>
+
 </li>
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2019-03-02 03:43:34 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2019-03-02 15:30:23 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
