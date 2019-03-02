@@ -26,7 +26,6 @@
 <table class="imgtable"><tr><td>
 <a href="https://changhaowang.github.io"><img src="photos/changhao.jpg" alt="Changhao Wang Photo" width="230px" /></a>&nbsp;</td>
 <td align="left"><p><b>Changhao Wang</b><br /></p>
-<p><b>Ph.D. student</b><br /></p>
 <p>Department of Mechanical Engineering<br /></p>
 <p>University of California at Berkeley<br /></p>
 <p><b>Email:</b> changhaowang@berkeley.edu<br /></p>
@@ -60,7 +59,7 @@
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2019-03-02 02:20:31 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2019-03-02 03:29:21 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
