@@ -60,7 +60,7 @@
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2019-03-02 03:18:43 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2019-03-02 02:20:31 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
