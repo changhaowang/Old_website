@@ -29,7 +29,7 @@
 <p>Department of Mechanical Engineering<br /></p>
 <p>University of California at Berkeley<br /></p>
 <p><b>Email:</b> changhaowang@berkeley.edu<br /></p>
-<p><b>Advisor:</b> Prof.<a href="http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka">Masayoshi Tomizuka</a><br /></p>
+<p><b>Advisor:</b> Prof. <a href="http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka">Masayoshi Tomizuka</a><br /></p>
 <p><b>Affiliation:</b><a href="http://msc.berkeley.edu/">Mechanical Systems Control Laboratory (MSC)</a><br /></p>
 <h2>Recent News</h2>
 <ol>
@@ -59,7 +59,7 @@
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2019-03-02 03:29:21 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2019-03-02 03:40:45 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
