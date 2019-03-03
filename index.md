@@ -42,7 +42,8 @@
 </ol>
 </td></tr></table>
 <h2>About me</h2>
-<p>I am a first year Ph.D. student at UC Berkeley advised by Distinguished Professor Masayoshi Tomizuka. My research interests include system control, optimization, and analogy learning in a wide range of application, such as robotic manipulation, autonomous driving, and unmanned aerial vehicles.</p>
+<p>I am a first-year Ph.D. student at UC Berkeley advised by Distinguished Professor Masayoshi Tomizuka. My research interest lies in system control, optimization, and analogy learning with a wide range of application, such as robotic manipulation, autonomous driving, and unmanned aerial vehicles.</p>
+<p>Here is my <a href="pdf/CV_Changhao.pdf">Curriculum Vitae</a>.</p>
 <h2>Education</h2>
 <ul>
 <li><p><b>Ph.D. Mechanical Engineering, UC Berkeley (Berkeley, CA), 2018 - 2023 (Expected)</b></p>
@@ -66,7 +67,7 @@
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2019-03-02 21:21:25 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2019-03-02 21:44:39 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
