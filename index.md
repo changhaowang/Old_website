@@ -43,7 +43,7 @@
 </td></tr></table>
 <h2>About me</h2>
 <p>I am a first-year Ph.D. student at UC Berkeley advised by Prof. Masayoshi Tomizuka. My research interest lies in the interdisciplinary combination of robotics, optimization, artificial intelligence and control theories with applications to robotic manipulation and motion planning.</p>
-<p>Here is my <a href="pdf/CV_Changhao.pdf">Curriculum Vitae</a> and <a href="https://www.linkedin.com/in/changhaowang0708/">LinkedIn Profile</a>.</p>
+<p>Here are my <a href="pdf/CV_Changhao.pdf">Curriculum Vitae</a> and <a href="https://www.linkedin.com/in/changhaowang0708/">LinkedIn Profile</a>.</p>
 <h2>Education</h2>
 <ul>
 <li><p><b>Ph.D. Mechanical Engineering, UC Berkeley (Berkeley, CA), 2018 - 2023 (Expected)</b></p>
@@ -67,7 +67,7 @@
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2019-03-03 00:14:07 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2019-03-03 00:16:41 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
