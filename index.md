@@ -16,7 +16,7 @@
 <div class="menu-item"><a href="course.html">Coursework</a></div>
 <div class="menu-item"><a href="research.html">Research</a></div>
 <div class="menu-item"><a href="publication.html">Publication</a></div>
-<div class="menu-category">Externel</div>
+<div class="menu-category">External</div>
 <div class="menu-item"><a href="http://msc.berkeley.edu/">MSC&nbsp;Lab</a></div>
 </td>
 <td id="layout-content">
@@ -42,7 +42,7 @@
 </ol>
 </td></tr></table>
 <h2>About me</h2>
-<p>I am a first-year Ph.D. student at UC Berkeley advised by Distinguished Professor Masayoshi Tomizuka. My research interest lies in system control, optimization, and analogy learning with a wide range of application, such as robotic manipulation, autonomous driving, and unmanned aerial vehicles.</p>
+<p>I am a first-year Ph.D. student at UC Berkeley advised by Prof. Masayoshi Tomizuka. My research interest lies in the interdisciplinary combination of robotics, optimization, artificial intelligence and control theories with applications to robotic manipulation and motion planning.</p>
 <p>Here is my <a href="pdf/CV_Changhao.pdf">Curriculum Vitae</a>.</p>
 <h2>Education</h2>
 <ul>
@@ -59,7 +59,7 @@
 <ul>
 <li><p>Thesis: Vision-based Object Classification and Size Detection for Robotic Manipulation</p>
 </li>
-<li><p>Advisor: <a href="http://me.sjtu.edu.cn/teacher_directory1/dinghua.html">Prof. Ye Ding</a>, <a href="http://me.sjtu.edu.cn/teacher_directory1/shengxinjun.html">Prof. Xinjun Sheng</a></p>
+<li><p>Advisor: <a href="http://me.sjtu.edu.cn/teacher_directory1/dinghua.html">Prof. Ye Ding</a>, [http:<i></i>me.sjtu.edu.cn<i>teacher_directory1</i>shengxinjun.html Prof. Xinjun Sheng</p>
 </li>
 </ul>
 
@@ -67,7 +67,7 @@
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2019-03-02 21:44:39 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2019-03-03 00:03:26 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
