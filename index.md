@@ -52,7 +52,7 @@
 </li>
 <li><p>GPA: 4.0/4.0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Prof. Masayoshi Tomizuka</p>
 </li>
-<li><p>Research Interest: Robotics, Optimization, and Motion Planning. </p>
+<li><p>Research Interest: Robotics Manipulation, Motion Planning. </p>
 </li></ul>
 </li>
 <li><p><b>B.S., Mechanical Engineering, Shanghai Jiao Tong University (Shanghai, China), 2014-2018</b></p>
@@ -67,7 +67,7 @@
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2019-03-03 00:34:26 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2019-03-03 19:56:49 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
